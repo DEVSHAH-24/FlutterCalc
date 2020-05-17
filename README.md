@@ -1,5 +1,5 @@
-# calculator_dvm
+# FlutterCalc
 
-A new Flutter application.
+A basic calculator built on Flutter.
 
 
